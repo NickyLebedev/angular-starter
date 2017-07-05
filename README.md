@@ -1,4 +1,4 @@
-# Angular 2 base #
+# Angular starter app #
 
 Created completely with the help of
 [angular-cli](https://github.com/angular/angular-cli).
